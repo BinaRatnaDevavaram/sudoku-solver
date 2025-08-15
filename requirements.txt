@@ -1,0 +1,8 @@
+# Core dependencies
+requests>=2.31.0
+
+# Optional but recommended for rich console output, colors, animations
+rich>=13.7.0
+
+# Optional for cross-platform MP3 playback in victory celebration
+playsound>=1.3.0
